@@ -73,6 +73,6 @@ portfolio-website/
 Savollar yoki takliflar bo'lsa, contact form orqali bog'laning.
 
 ---
-**Yaratilgan**: 2024 yil  
+**Yaratilgan**: 2025 yil  
 **Texnologiya**: HTML, CSS, JavaScript  
 **Muallif**: Tursunboyeva Sabina
